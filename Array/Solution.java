@@ -1,3 +1,5 @@
+package Array;
+
 import java.util.Arrays;
 
 class Solution {
@@ -19,7 +21,7 @@ class Solution {
     }
 
     public static void main(String[] args) {
-        Longest_Common_Prefix sol = new Longest_Common_Prefix();
+        Solution sol = new Solution();
 
         String[] strs = {"flower", "flow", "flight"};
 
